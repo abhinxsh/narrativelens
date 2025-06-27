@@ -9,7 +9,6 @@ LLM-powered media bias and framing analyzer.
 - Export JSON reports
 
 1. Install requirements:
-```bash
 pip install -r requirements.txt
 
 2. Create `.env` with:
