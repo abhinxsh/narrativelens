@@ -1,0 +1,30 @@
+You are a media analyst AI. Analyze the following article and return:
+- Political Bias: left, center, or right
+- Emotional Tone: e.g. fear, anger, hope, optimism
+- Framing Style: e.g. emotionally loaded, sensational, neutral
+- Omitted Viewpoints: who or what is missing from this narrative?
+
+Respond in this JSON format:
+{
+  "bias": "...",
+  "emotion": "...",
+  "framing": "...",
+  "omissions": "..."
+}
+
+Example:
+Article:
+"The new healthcare bill will devastate vulnerable families while lining the pockets of the wealthy."
+
+Analysis:
+{
+  "bias": "left",
+  "emotion": "anger",
+  "framing": "emotionally loaded",
+  "omissions": "Does not mention the bill's supporters or their arguments."
+}
+
+---
+
+Now analyze this article:
+{article}
