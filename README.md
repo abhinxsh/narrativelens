@@ -20,4 +20,4 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 streamlit run app/main.py
 
 ## Demo
-Coming soon.
+[https://narrativelens.streamlit.app](https://narrativelens.streamlit.app) 
