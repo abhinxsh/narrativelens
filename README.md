@@ -7,9 +7,12 @@ LLM-powered media bias and framing analyzer.
 - Detect political bias, emotional tone, framing style
 - Visualize results with Plotly
 - Export JSON reports
+- Tone weighting
+- Semantic clustering
+- Bias over time visualization
+- PDF export
 
 1. Install requirements:
-```bash
 pip install -r requirements.txt
 
 2. Create `.env` with:
@@ -21,3 +24,4 @@ streamlit run app/main.py
 
 ## Demo
 [https://narrativelens.streamlit.app](https://narrativelens.streamlit.app) 
+Coming soon.
