@@ -1,0 +1,4 @@
+Rewrite the following text in a neutral, objective tone. Avoid emotionally charged or biased language.
+
+Text:
+{article}

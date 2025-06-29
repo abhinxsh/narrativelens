@@ -2,3 +2,8 @@ streamlit
 plotly
 python-dotenv
 google-generativeai
+requests
+fpdf
+pandas
+sentence-transformers
+umap-learn

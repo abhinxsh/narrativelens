@@ -2,6 +2,7 @@ You are a media analyst AI. Analyze the following article and return:
 - Political Bias: left, center, or right
 - Emotional Tone: e.g. fear, anger, hope, optimism
 - Framing Style: e.g. emotionally loaded, sensational, neutral
+- Predicted Source (if possible): e.g., CNN, Fox News, BBC, or any other media outlet(even regional or local ones)
 - Omitted Viewpoints: who or what is missing from this narrative?
 
 Respond in this JSON format:
@@ -28,3 +29,5 @@ Analysis:
 
 Now analyze this article:
 {article}
+
+
